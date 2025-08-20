@@ -1,0 +1,41 @@
+GOLD EASE RECEIPT - QUICK INSTALLATION GUIDE
+===========================================
+
+FOR USERS WHO WANT TO INSTALL ON THEIR PC:
+
+STEP 1: GET THE FILES
+- Ask the developer for the "win-unpacked" folder
+- This folder contains the complete application
+
+STEP 2: COPY TO YOUR PC
+- Copy the entire "win-unpacked" folder to your computer
+- Suggested location: Desktop or C:\Program Files\Gold Ease Receipt\
+
+STEP 3: RUN THE APP
+- Open the copied folder
+- Double-click "Gold Ease Receipt.exe"
+- The app will start immediately!
+
+STEP 4: CREATE SHORTCUT (OPTIONAL)
+- Right-click on "Gold Ease Receipt.exe"
+- Select "Create shortcut"
+- Move shortcut to Desktop for easy access
+
+THAT'S IT! 
+- No internet required
+- Works completely offline
+- All your data stays on your PC
+- Safe and secure
+
+TROUBLESHOOTING:
+- If Windows shows "protected your PC" message:
+  Click "More info" then "Run anyway"
+- Make sure to copy the ENTIRE folder, not just the .exe file
+- Keep all files together in the same folder
+
+SYSTEM REQUIREMENTS:
+- Windows 7 or later
+- 2GB RAM minimum
+- 200MB free space
+
+For detailed instructions, see INSTALLATION_GUIDE.md
